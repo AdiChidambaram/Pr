@@ -1,0 +1,13 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+}
+
+#notes{
+    color: black;
+}
+
+canvas{
+    border: 10px dashed ghostwhite;
+    border-radius: 25px;
+}
